@@ -31,3 +31,4 @@ Liiteaineistossa on 1682:lle kirjattuja ICT-menoja sekä 380 € saldoero kustan
 Kehittäjälle: `python build.py` päivittää yhden tiedoston käyttöversion. `node --test tests/core.test.cjs` ajaa laskentatestit. Sovelluksen käyttö ei vaadi Pythonia tai Nodea. JSZipin lisenssi on `dist/vendor/`-kansiossa. GitHub-julkaisua ei ole tehty. Pidä omat pääkirjat ja varmuuskopiot lähdekoodikansion ulkopuolella.
 
 Automaattiset laskenta- ja sovelluslogiikkatestit on ajettu. Oikean selaimen visuaalista tarkistusta tai kaikkien selainten paikallisen tallennuksen yhteensopivuutta ei ole tässä ympäristössä varmennettu.
+Päivitetty 16.9.2026.
